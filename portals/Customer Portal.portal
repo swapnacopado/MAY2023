@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Portal xmlns="http://soap.sforce.com/2006/04/metadata">
     <active>false</active>
-    <admin>admin-hxoafrabsum2@example.com</admin>
+    <admin>admin-5qk5c3rr8pz0@example.com</admin>
     <description>Customer Portal</description>
     <emailSenderAddress>mwalchuk@salesforce.com</emailSenderAddress>
     <emailSenderName>admin@servicecloud.trial</emailSenderName>
