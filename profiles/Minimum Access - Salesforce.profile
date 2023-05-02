@@ -80,6 +80,10 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>ClassA</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -104,6 +108,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Description</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Employee__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -179,6 +188,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Website</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.testfield__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1814,6 +1828,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Opportunity.Type</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Opportunity.copadofield__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
